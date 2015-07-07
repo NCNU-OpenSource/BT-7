@@ -142,7 +142,7 @@ BT-7，是蘇聯1935至1940年間生產的一種輕型坦克，其最大特色�
 旋轉：選取要旋轉的物件，可以透過XYZ設定角度旋轉物件。<br>
 縮放：等比例縮放3D模組。<br>
 ![GitHub Logo](https://github.com/NCNU-OpenSource/BT-7/blob/master/img/005.png)<br>
-此圖為3D列印擺放是意圖。
+此圖為3D列印擺示意圖。
 
 ###組裝
 準備好實作所需之材料後
